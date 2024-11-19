@@ -5,6 +5,10 @@
 ## Project Description
 This project implements a neural network model for translating English to German. It utilizes concepts like sequence modeling, encoder-decoder architecture, and LSTM layers.
 
+## Model Architecture
+
+![image](https://github.com/user-attachments/assets/bc5a537f-097f-45c3-9cd8-4b4b835d2e38)
+
 ## Model Summary
 - **Encoder:**
   - Input Layer: `(None, None, None)`
