@@ -1,6 +1,5 @@
 # Neural-Translation-Model-NLP
 
-# Neural Translation Model
 
 ## Project Description
 This project implements a neural network model for translating English to German. It utilizes concepts like sequence modeling, encoder-decoder architecture, and LSTM layers.
